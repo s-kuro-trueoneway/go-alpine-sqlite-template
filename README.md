@@ -1,6 +1,7 @@
 # Go Alpine SQLite Template
 
 Go、Alpine.js、SQLite を使ったシンプルな SSR Web アプリケーションの雛形です。
+ここに　REQUIREMENTS.md　をおいて　OpenCodeで開発を進めてください。
 
 ## 概要
 
